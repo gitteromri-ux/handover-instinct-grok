@@ -21,6 +21,8 @@ Evidence labels used throughout: **VERIFIED** = read from a system of record in 
 
 ### 0.3 Reading order for a human taking over
 
+0. `GAPS.md` — what is NOT in this handover and who holds it; `snapshots/meta-2026-10-10/` — `ACTIVE-AD-COPY.md` (creative text, links, url_tags of every live ad as of 10 Oct); `VERCEL-PROJECTS.md` — all 52 projects; `rules/design/` — design standards.
+
 1. This file (index, access, rules, current state).
 2. `_global-rules.md` (house rules, verbatim).
 3. `projects/julie-tracking-freeze/README.md` + `golden.json` (what is frozen and why).
@@ -51,7 +53,7 @@ Evidence labels used throughout: **VERIFIED** = read from a system of record in 
 | **Uri Livne** | Daily 10:00 Israel "Uri/Omri" Google Meet (recurring) | urilivne1971@gmail.com |
 
 Brands and products:
-- **Longevity Life Academy (LLA)** — www.longevitylifeacademy.com. Products: **The Longevity Blueprint** (full course, $279/mo list, $179/mo in ad copy, $249 credit code for VIP; CRM `PreferredCourseId 168663`, Oct 2026 cohort) and **Julie Gibson Clark Live Masterclass** (live Zoom event **27 Oct 2026, 7:00 PM ET**; Standard $49 / VIP $79; CRM course "Longevity Masterclass" $79; Standard is a discount on it).
+- **Longevity Life Academy (LLA)** — www.longevitylifeacademy.com. Products: **The Longevity Blueprint** (full course, $279/mo list, $179/mo in ad copy, $249 credit code for VIP; CRM `PreferredCourseId 168663`, Oct 2026 cohort) and **Julie Gibson Clark Live Masterclass** (live Zoom sessions **27 Oct 2026, 7:00 PM ET** and **14 Nov 2026, 1:00 PM ET** (both named in every live ad's primary text; the CRM field `LGV_Masterclass_Session_Date` carries the chosen date); Standard $49 / VIP $79; CRM course "Longevity Masterclass" $79; Standard is a discount on it).
 - **French Atelier by Acadomia** — www.frenchatelierlive.com (live-online French school). Culture Capsules (3 packs × 10 live conferences). Checkout exists on staging only.
 - **Club Italia by eTeacher** — https://gitteromri-ux.github.io/club-italia/ (CEO-review site, v16 on `main`).
 - **Gita Agency** — Omri's agency brand (Meta business "Gita Agency" 1489173449541995; Facebook page "Gita Marketing agency" 834843056374699).
@@ -192,7 +194,7 @@ Other live review surfaces (GitHub Pages, all under gitteromri-ux.github.io): `f
 | 2 (retargeting + 3×1% LAL) | 52668268711228 | 108814 | PAUSED (6 Oct, Omri) | $44 | — | warm audiences + lookalikes | — |
 | 3 | 52668330165828 | 108815 | ACTIVE | **$309** | LEARNING 0 | US 35–65+, 41 interests AND Engaged Shoppers | Ad#17 Woman "Five habits" 52670355336628, card-gold Reels 52670313921028 (Ad#12 paused 9 Oct 17:32) |
 | 4 | 52668330870828 | 108816 | ACTIVE | **$420** | LEARNING 9 | US 35–65+, interests AND (Shoppers OR top-10% OR 10–25%) | Ad#17 52670065101028, card-gold Reels 52670313942228 |
-| 5 | 52668330871228 | 108817 | ACTIVE | **$499** (approved 10 Oct 14:26) | LEARNING 3 | US 35–65+, interests AND income top 10% only | Ad#17 52670277632228 |
+| 5 | 52668330871228 | 108817 | ACTIVE | **$619** at 17:40 ($499 at 14:26; Omri raised it again, read from Meta) | LEARNING 3 | US 35–65+, interests AND income top 10% only | Ad#17 52670277632228 |
 | 6 | 52668330871028 | 108818 | PAUSED (6 Oct) | $69 | — | US 45–64 | — |
 | TEST / TEST2 | 52668956239228 / 52668961777228 | — | PAUSED | $60 / $500 | — | TLV 1 km controlled-purchase tests | — |
 
