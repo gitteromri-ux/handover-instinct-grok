@@ -16,6 +16,8 @@ Written 10 Oct 2026 18:00 Israel. This is the honest list. Everything below is e
 | A9 | Resend account for FA Bastille/transactional mail | Omri | Only if FA emails are touched |
 | A10 | Zoom account and webinar links for 27 Oct / 14 Nov sessions | eTeacher / Julie's team | Attendee emails, reminders, in-event upsell plan (master §7.1) |
 
+| A11 | GitHub login for `gitteromri-ux` — passkey-only account; passkey lives on Omri's Windows PC (Chrome 22 Jul, Edge 14 Jun 2026); no password, no phone passkey, no usable 2FA app. Workaround in place since 10 Oct 22:50: write deploy keys on 94 personal repos (private Drive folder "PRIVATE — GitHub deploy keys 2026-10-10"). Org repos (live LLA site + masterclass) still need the PC login or an approved mirror-sync workflow. First time at the PC: github.com/login → Sign in with a passkey → settings/security → add password + phone passkey + download recovery codes | Omri | Without it, no change can be deployed to www.longevitylifeacademy.com or /julie-masterclass/ |
+
 ## B. Data and records never captured by the previous operator
 | # | Item | Where it should come from | Status |
 |---|---|---|---|
